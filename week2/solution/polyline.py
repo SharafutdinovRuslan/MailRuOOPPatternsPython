@@ -1,4 +1,4 @@
-# pip3 install pygame=2.0.0.dev6 to work with MacOS Mojave
+# pip install pygame==2.0.0.dev6 to work with MacOS Mojave
 
 import pygame
 import random

@@ -293,5 +293,5 @@ if __name__ == "__main__":
     manager.subscribe(printer2)
 
     manager.notify("Hello from manager")
-
+    
 ```
